@@ -389,7 +389,7 @@ nav .fas {
 }
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url(badal24.jpeg);
+    background-image: url(badaL43.jpg);
     background-repeat: no-repeat;
   }
 
@@ -409,7 +409,7 @@ nav .fas {
 
   nav ul {
     background: #ff004f;
-    position: relative; /*fixed*/
+    position: fixed;
     top: 0;
     right: -200%;
     width: 200px;
