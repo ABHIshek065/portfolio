@@ -14,19 +14,19 @@ body {
   color: #fff;
 }
 /* this css property given by me  */
-/* #header .devpic img {
+#header .devpic img {
   width: 501px;
   margin: -146px 0px -472px 671px;
   background-repeat: no-repeat;
-} */
+}
 
-#header {
+/* #header {
   width: 100%;
   height: 100vh;
-  background-image: url(badal12.png);
+   background-image: url(images/background.png); 
   background-size: cover;
-  background-position: center;
-}
+  background-position: center;  
+} */
 
 .container {
   padding: 10px 10%;
@@ -81,7 +81,7 @@ nav ul li a:hover::after {
 }
 /* original margin-top: 20%; / other margin is 3% */
 .header-text {
-  margin-top: 20%; /* 3 me*/
+  margin-top: 3%;
   font-size: 30px;
 }
 
@@ -389,7 +389,7 @@ nav .fas {
 }
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url(badaL43.jpg);
+    background-image: url(badal89.jpeg);
     background-repeat: no-repeat;
   }
 
