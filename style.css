@@ -36,7 +36,7 @@ body {
   font-size: 60px;
   color: #3bebd1;
 }
-/* by me  */
+/*  */
 #header .abhi span:hover {
   color: #ff004f;
   transition: 0.5s;
@@ -409,7 +409,7 @@ nav .fas {
 
   nav ul {
     background: #ff004f;
-    position: fixed;
+    position: relative; /*fixed*/
     top: 0;
     right: -200%;
     width: 200px;
