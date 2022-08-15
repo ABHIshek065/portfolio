@@ -17,6 +17,7 @@ body {
 #header .devpic img {
   width: 501px;
   margin: -146px 0px -472px 671px;
+  background-repeat: no-repeat;
 }
 
 /* #header {
@@ -389,6 +390,7 @@ nav .fas {
 @media only screen and (max-width: 600px) {
   #header {
     background-image: url(badal24.jpeg);
+    background-repeat: no-repeat;
   }
 
   .header-text {
