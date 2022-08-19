@@ -23,10 +23,10 @@ body {
 #header {
   width: 90%;
   height: 800px;
-  
-   background-image: url(badal12.png); 
+
+  background-image: url(badal12.png);
   background-size: cover;
-  background-position: center;  
+  background-position: center;
 }
 
 .container {
@@ -390,11 +390,10 @@ nav .fas {
 }
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url(badal12.png);
+    background-image: url(badaL43.jpg);
     background-repeat: no-repeat;
-   
-    width: 100%;/**/
 
+    width: 100%; /**/
   }
 
   #header .abhi span {
@@ -404,7 +403,6 @@ nav .fas {
   .header-text {
     margin-top: 100%;
     font-size: 16px;
-    
   }
 
   .header-text h1 {
